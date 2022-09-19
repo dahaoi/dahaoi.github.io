@@ -3,11 +3,11 @@
   <title>江无穷のBlog</title>
   
   <subtitle>生活明朗,万物可爱.</subtitle>
-  <link href="http://dahaoi.github.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="http://dahaoi.github.io/"/>
-  <updated>2022-09-10T12:43:33.587Z</updated>
-  <id>http://dahaoi.github.io/</id>
+  <link href="http://example.com/"/>
+  <updated>2022-09-19T08:36:28.099Z</updated>
+  <id>http://example.com/</id>
   
   <author>
     <name>江无穷</name>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://dahaoi.github.io/undefined/4a17b156.html"/>
-    <id>http://dahaoi.github.io/undefined/4a17b156.html</id>
-    <published>2022-09-10T12:43:33.587Z</published>
-    <updated>2022-09-10T12:43:33.587Z</updated>
+    <link href="http://example.com/posts/4a17b156.html"/>
+    <id>http://example.com/posts/4a17b156.html</id>
+    <published>2022-09-19T08:36:28.099Z</published>
+    <updated>2022-09-19T08:36:28.099Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -33,6 +33,31 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>仲秋</title>
+    <link href="http://example.com/posts/dbfaf180.html"/>
+    <id>http://example.com/posts/dbfaf180.html</id>
+    <published>2022-09-18T19:43:40.000Z</published>
+    <updated>2022-09-19T08:36:28.099Z</updated>
+    
+    <content type="html"><![CDATA[<div class='checkbox cyan checked'><input type="checkbox" checked="checked"/>            <p>又是一年中秋夜</p>            </div><p class='p cyan'>你要写中秋，就不能只写中秋，要写此夜写相约，写一轮千里与共的皎月，要写起舞满折桂欢声满台榭，人间好时节，写晚风轻掠，写堂前怡悦，写亭中瓜果陈列，写一封家书里的声声切，再写把酒独酌卧闲阶 问青天为何十常八九欲磨还缺。思量至此，所幸今岁清光胜往年，原来年能与汝同看中秋月</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&#39;checkbox cyan checked&#39;&gt;&lt;input type=&quot;checkbox&quot; checked=&quot;checked&quot;/&gt;
+            &lt;p&gt;又是一年中秋夜&lt;/p&gt;
+            &lt;/div&gt;
+&lt;p class=&#39;p cyan</summary>
+      
+    
+    
+    
+    
+    <category term="日常" scheme="http://example.com/tags/%E6%97%A5%E5%B8%B8/"/>
     
   </entry>
   
