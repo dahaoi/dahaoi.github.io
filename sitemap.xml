@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/posts/35c527b2.html</loc>
+    <loc>http://example.com/manifest.json</loc>
     
     <lastmod>2022-09-22</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>http://example.com/posts/32acbbb9.html</loc>
     
     <lastmod>2022-09-22</lastmod>
     
@@ -46,6 +46,15 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>http://example.com/posts/35c527b2.html</loc>
+    
+    <lastmod>2022-09-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   <url>
     <loc>http://example.com/</loc>
@@ -54,6 +63,13 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>http://example.com/tags/python/</loc>
+    <lastmod>2022-09-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
   <url>
     <loc>http://example.com/tags/%E6%97%A5%E5%B8%B8/</loc>
