@@ -21,26 +21,7 @@
       <link href="/posts/863e9537.html"/>
       <url>/posts/863e9537.html</url>
       
-        <content type="html"><![CDATA[<p>“可是这个世界有 70 亿人啊，我们所赞扬的爱，不过就是一场高贵的谎言，一个需要我们用一生去维系的谎言”<br>“爱上没什么了不起，爱下去才了不起”<br>“爱的本身就是谎言，爱的本身就是欺骗，爱的本身就是剥夺”<br>“你说你爱的很理性很克制，而我说你爱的很懦弱”</p><div align=center class="aspect-ratio">  <iframe src="https://www.bilibili.com/video/BV19841147mM?share_source=copy_web&vd_source=6ee97ba4ae5dc22aef7b3f3e8f86bce0"   scrolling="no"   border="0"   frameborder="no"   framespacing="0"   high_quality=1  danmaku=1   allowfullscreen="true">   </iframe></div>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 随记 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>今天你焦虑了吗</title>
-      <link href="/posts/98eea2b1.html"/>
-      <url>/posts/98eea2b1.html</url>
-      
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<p>“可是这个世界有 70 亿人啊，我们所赞扬的爱，不过就是一场高贵的谎言，一个需要我们用一生去维系的谎言”<br>“爱上没什么了不起，爱下去才了不起”<br>“爱的本身就是谎言，爱的本身就是欺骗，爱的本身就是剥夺”<br>“你说你爱的很理性很克制，而我说你爱的很懦弱”<br>“爱是自由意志的沉沦”</p><div align="center" class="aspect-ratio">  <iframe    src="https://player.bilibili.com/player.html?aid=218537343&&page=1&as_wide=1&high_quality=1&danmaku=0"    scrolling="no"    border="0"    frameborder="no"    framespacing="0"    high_quality="1"    danmaku="1"    allowfullscreen="true"  ></iframe></div>]]></content>
       
       
       
@@ -205,22 +186,22 @@
     
     
     <entry>
-      <title></title>
-      <link href="/css/cebian/ceBian.css"/>
-      <url>/css/cebian/ceBian.css</url>
+      <title>tags</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[/* 侧边栏个人卡片渐变色 *//* #aside-content > .card-widget.card-info {  background: linear-gradient(-45deg, var(--anzhiyu-main), #031764, #150136, #67044d);  background-size: 400%;  box-shadow: var(--heo-shadow-black);  animation: gradient 15s ease infinite;  position: relative;  color: var(--anzhiyu-white);}.site-data > a .headline,.site-data > a .length-num {  color: var(--anzhiyu-white);} *//* tags样式 */#aside-content .card-tag-cloud a {    color: var(--jwq-fontcolor)!important;    font-size: 1.05rem !important;    border-radius: 8px;    display: inline-block;    margin-right: 4px;  }  #aside-content .card-tag-cloud a:hover {    background: var(--jwq-theme);    color: var(--jwq-white) !important;    box-shadow: var(--jwq-shadow-theme);  }  @media screen and (min-width: 1300px) {    #aside-content .card-tag-cloud a:hover {      transform: scale(1.03);    }    #aside-content .card-tag-cloud a:active {      transform: scale(0.97);    }  }  #aside-content .card-tag-cloud a sup {    opacity: .4;    margin-left: 2px;  }  /* 归档样式 */span.card-archive-list-count {    width: auto;    text-align: left;    font-size: 1.5rem;    line-height: 0.9;    font-weight: 700;  }  .card-archive-list-count-group {    display: flex;    flex-direction: row;    align-items: baseline;  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:last-child,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a span:last-child {    width: fit-content;    margin-left: 4px;  }  span.card-archive-list-count {      width: auto;      text-align: left;      font-size: 1.1rem;      line-height: .9;      font-weight: 700;  }  .card-archive-list-date {    font-size: 14px;    opacity: 0.6;  }  li.card-archive-list-item {    width: 100%;    flex: 0 0 48%;  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:hover,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a:hover {    color: var(--jwq-white);    background-color: var(--jwq-theme);    box-shadow: var(--jwq-shadow-theme);    border-radius: 8px;    padding-left: 0.5rem;    padding-right: 0.5rem;  }  @media screen and (min-width: 1300px) {    #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:hover,    #aside-content .card-categories ul.card-category-list > .card-category-list-item a:hover {      transform: scale(1.03);    }    #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:active,    #aside-content .card-categories ul.card-category-list > .card-category-list-item a:active {      transform: scale(0.97);    }  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a {    border-radius: 8px;    margin: 4px 0;    display: flex;    flex-direction: column;    align-content: space-between;    border: var(--style-border);  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:first-child,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a span:first-child {    width: auto;    flex: inherit;  }  #aside-content .card-archives ul.card-archive-list,  #aside-content .card-categories ul.card-category-list {    display: flex;    flex-direction: row;    justify-content: space-between;    flex-wrap: wrap;  }]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>tags</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title></title>
+      <link href="/css/cebian/ceBian.css"/>
+      <url>/css/cebian/ceBian.css</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[/* 侧边栏个人卡片渐变色 *//* #aside-content > .card-widget.card-info {  background: linear-gradient(-45deg, var(--anzhiyu-main), #031764, #150136, #67044d);  background-size: 400%;  box-shadow: var(--heo-shadow-black);  animation: gradient 15s ease infinite;  position: relative;  color: var(--anzhiyu-white);}.site-data > a .headline,.site-data > a .length-num {  color: var(--anzhiyu-white);} *//* tags样式 */#aside-content .card-tag-cloud a {    color: var(--jwq-fontcolor)!important;    font-size: 1.05rem !important;    border-radius: 8px;    display: inline-block;    margin-right: 4px;  }  #aside-content .card-tag-cloud a:hover {    background: var(--jwq-theme);    color: var(--jwq-white) !important;    box-shadow: var(--jwq-shadow-theme);  }  @media screen and (min-width: 1300px) {    #aside-content .card-tag-cloud a:hover {      transform: scale(1.03);    }    #aside-content .card-tag-cloud a:active {      transform: scale(0.97);    }  }  #aside-content .card-tag-cloud a sup {    opacity: .4;    margin-left: 2px;  }  /* 归档样式 */span.card-archive-list-count {    width: auto;    text-align: left;    font-size: 1.5rem;    line-height: 0.9;    font-weight: 700;  }  .card-archive-list-count-group {    display: flex;    flex-direction: row;    align-items: baseline;  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:last-child,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a span:last-child {    width: fit-content;    margin-left: 4px;  }  span.card-archive-list-count {      width: auto;      text-align: left;      font-size: 1.1rem;      line-height: .9;      font-weight: 700;  }  .card-archive-list-date {    font-size: 14px;    opacity: 0.6;  }  li.card-archive-list-item {    width: 100%;    flex: 0 0 48%;  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:hover,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a:hover {    color: var(--jwq-white);    background-color: var(--jwq-theme);    box-shadow: var(--jwq-shadow-theme);    border-radius: 8px;    padding-left: 0.5rem;    padding-right: 0.5rem;  }  @media screen and (min-width: 1300px) {    #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:hover,    #aside-content .card-categories ul.card-category-list > .card-category-list-item a:hover {      transform: scale(1.03);    }    #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a:active,    #aside-content .card-categories ul.card-category-list > .card-category-list-item a:active {      transform: scale(0.97);    }  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a {    border-radius: 8px;    margin: 4px 0;    display: flex;    flex-direction: column;    align-content: space-between;    border: var(--style-border);  }  #aside-content .card-archives ul.card-archive-list > .card-archive-list-item a span:first-child,  #aside-content .card-categories ul.card-category-list > .card-category-list-item a span:first-child {    width: auto;    flex: inherit;  }  #aside-content .card-archives ul.card-archive-list,  #aside-content .card-categories ul.card-category-list {    display: flex;    flex-direction: row;    justify-content: space-between;    flex-wrap: wrap;  }]]></content>
       
     </entry>
     
