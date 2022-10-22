@@ -4,6 +4,44 @@
   
     
     <entry>
+      <title>用例图的四种关系</title>
+      <link href="/posts/7b4bf834.html"/>
+      <url>/posts/7b4bf834.html</url>
+      
+        <content type="html"><![CDATA[<p>转载自：<a href="http://blog.csdn.net/ls1645/article/details/42969587">http://blog.csdn.net/ls1645/article/details/42969587</a></p><p>四种关系</p><p>关联</p><p>泛化</p><p>包含</p><p>扩展</p><p>关联<br>关联关系通常用于描述参与者与用例之间的关系。<br>表示方式：带箭头的实线，箭头指向用例。（有的教材直接用实线表示）</p><p>泛化<br>泛化关系描述的是一般用例与特殊用例之间的关系。<br>注：一般用例也被称为父用例，特殊用例也被称为子用例两者之间存在继承关系<br>表示方式：带空心箭头的实线，箭头由特殊用例指向一般用例。</p><p>包含<br>包含关系描述了其中一个用例（基础用例）的行为包含了另一个用例（包含用例）的行为的关系。基础用例可以看到包含用例，并依赖于包含用例的执行结果，但是二者不能访问对方的属性。<br>表示方式：带箭头的虚线+《include》字样，箭头由基础用例指向包含用例</p><p>扩展<br>扩展关系描述的是从一种基础用例中扩展出新用例的一种关系。<br>表示方式：带箭头的虚线+&lt; extend &gt;字样，箭头由扩展用例指向基础用例</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 软件工程 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>动态规划算法？加括号？不存在的</title>
+      <link href="/posts/856cbcd0.html"/>
+      <url>/posts/856cbcd0.html</url>
+      
+        <content type="html"><![CDATA[<p>假设有 A1——Aj j 个矩阵相乘，如何加括号使计算次数最少</p><p>i 行 j 列 \<em> j 行 k 列 的俩矩阵相乘可以得到 i 行 k 列 的矩阵，运算次数为 i\</em>j\*k</p><div class="img-wrap"><div class="img-bg"><img class="img" src="/stfile/img/DTsuanfa/1.jpg"/></div></div><p>括号把矩阵分成两块，即（Ai —— Ak）*（Ak+1 —— Aj），假设 i！=j and i &lt;= k &lt; j ,那么可以得到 m[i,j]=min{m[i,k]+m[k+1,j]+P(i-1)*Pk*Pj}</p><div class="tip "><p>即将问题分为了矩阵 m[i,k]和 m[k+1,j]分别在进行上面的划分，P(i-1)*Pk*Pj 为当前划分时的运算次数，前面的运算产生了一个 n-1 行的矩阵，P(i-1)*Pk*Pj 即当前基本运算次数</p></div><div class="img-wrap"><div class="img-bg"><img class="img" src="/stfile/img/DTsuanfa/2.jpg"/></div></div><p>当 r= 3 时两种情况：A1 A2 A3 依次相乘，或者 A1*（A2*A3），因为(A2*A3)当 r=2 时(即上一步)已经求出，所以直接比较运算次数最少的方法保留，以此类推 A2*A3*A4 和 A3*A4*A5。当 r=4 时有三种情况：第一种依次相乘，第二种(A1*A2)*(A3*A4)，(A1*A2)和(A3*A4)在 r=2 时均已求出，直接带入计算即可，第三种为 A1*(A2*A3*A4),(A2*A3*A4)在 r=3 时已经计算出，直接带入即可。以此类推 r=5 即可算出最优解。</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 算法 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我爱你 你要记得我</title>
       <link href="/posts/4e44a8eb.html"/>
       <url>/posts/4e44a8eb.html</url>
